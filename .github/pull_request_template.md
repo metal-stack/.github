@@ -21,7 +21,7 @@ Depends on:
 - [ ] ...
 -->
 
-**Description**:
+## Description
 
 None
 
@@ -30,7 +30,7 @@ If not already described in a referenced issue, please describe your PR and the 
 -->
 
 
-**Release Notes**:
+## Release Notes
 
 None
 
