@@ -1,3 +1,5 @@
+## References
+
 Closes #issue.
 
 <!--
@@ -21,14 +23,13 @@ Depends on:
 - [ ] ...
 -->
 
-## Description
+## Additional Description
 
 None
 
 <!--
 If not already described in a referenced issue, please describe your PR and the motivation behind it. You can also add special notes for the reviewers here, e.g. why you solved the problem in a certain why or give an overview over the your changes and implications. Just try to make life easy for the reviewers.
 -->
-
 
 ## Release Notes
 
