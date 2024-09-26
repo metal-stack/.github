@@ -39,7 +39,7 @@ None
 Release Notes
 
 Do you want to add something to the release notes?
-Please be aware that the pull request's title will become part of the release notes, so try to make them understandable and choose them wisely.
+Please be aware that the pull request's title will become part of the release notes, so try to make it understandable and choose wisely.
 
 If your changes contain a breaking change, please add the following section:
 
