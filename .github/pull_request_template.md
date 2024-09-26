@@ -1,0 +1,51 @@
+<!--
+Thanks for opening a pull request in the metal-stack org! 😻
+If you haven't done already, feel free to check our contribution guidelines on docs.metal-stack.io.
+
+If possible, please reference other issues or pull requests. If this PR closes an issue, please add:
+
+Closes #.
+
+If you want to reference other issues, please add:
+
+References:
+
+- ...
+
+If your PR depends on other PRs, please add:
+
+Depends on:
+
+- [ ] ...
+-->
+
+**Release Notes**:
+
+<!--
+Release Notes
+
+Do you want to add something to the release notes?
+Please be aware that the pull request's title will become part of the release notes, so try to make them understandable and choose them wisely.
+
+If your changes contain a breaking change, please add the following section:
+
+## Breaking Change
+
+```BREAKING_CHANGE
+Description of the breaking change and what an operator needs to do about it.
+```
+
+If your changes contain required actions for operators, please add the following section:
+
+## Required Actions
+
+```ACTIONS_REQUIRED
+Description of the required action.
+```
+-->
+
+**Description**:
+
+<!--
+If not already described in a referenced issue, please describe your PR and the motivation behind it. You can also add special notes for the reviewers here, e.g. why you solved the problem in a certain why or give an overview over the your changes and implications. Just try to make life easy for the reviewers.
+-->
