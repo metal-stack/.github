@@ -1,10 +1,12 @@
+Closes #issue.
+
 <!--
 Thanks for opening a pull request in the metal-stack org! 😻
 If you haven't done already, feel free to check our contribution guidelines on docs.metal-stack.io.
 
 If possible, please reference other issues or pull requests. If this PR closes an issue, please add:
 
-Closes #.
+Closes #<the-issue-number-to-close>.
 
 If you want to reference other issues, please add:
 
@@ -19,7 +21,18 @@ Depends on:
 - [ ] ...
 -->
 
+**Description**:
+
+None
+
+<!--
+If not already described in a referenced issue, please describe your PR and the motivation behind it. You can also add special notes for the reviewers here, e.g. why you solved the problem in a certain why or give an overview over the your changes and implications. Just try to make life easy for the reviewers.
+-->
+
+
 **Release Notes**:
+
+None
 
 <!--
 Release Notes
@@ -42,10 +55,4 @@ If your changes contain required actions for operators, please add the following
 ```ACTIONS_REQUIRED
 Description of the required action.
 ```
--->
-
-**Description**:
-
-<!--
-If not already described in a referenced issue, please describe your PR and the motivation behind it. You can also add special notes for the reviewers here, e.g. why you solved the problem in a certain why or give an overview over the your changes and implications. Just try to make life easy for the reviewers.
 -->
