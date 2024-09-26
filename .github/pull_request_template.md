@@ -36,9 +36,7 @@ If not already described in a referenced issue, please describe your PR and the 
 None
 
 <!--
-Release Notes
-
-Do you want to add something to the release notes?
+Do you want to add something to the release notes (metal-stack/releases)? You can do so by adding special sections in this PR.
 Please be aware that the pull request's title will become part of the release notes, so try to make it understandable and choose wisely.
 
 If your changes contain a breaking change, please add the following section:
