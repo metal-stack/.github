@@ -37,6 +37,7 @@ None
 
 <!--
 Do you want to add something to the release notes (metal-stack/releases)? You can do so by adding special sections in this PR.
+
 Please be aware that the pull request's title will become part of the release notes, so try to make it understandable and choose wisely.
 
 If your changes contain a breaking change, please add the following section:
@@ -45,6 +46,8 @@ If your changes contain a breaking change, please add the following section:
 
 ```BREAKING_CHANGE
 Description of the breaking change and what an operator needs to do about it.
+This section is **not** intended for documentation of internal breaking changes.
+Release notes are meant to be read by users and operators of metal-stack, not metal-stack developers.
 ```
 
 If your changes contain required actions for operators, please add the following section:
