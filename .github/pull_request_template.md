@@ -1,48 +1,29 @@
-## References
+## Description
 
-Closes #issue.
+Closes #.
 
 <!--
-Thanks for opening a pull request in the metal-stack org! 😻
-If you haven't done already, feel free to check our contribution guidelines on docs.metal-stack.io.
-
-If possible, please reference other issues or pull requests. If this PR closes an issue, please add:
+If possible, please reference other issues or pull requests.
 
 Closes #<the-issue-number-to-close>.
-
-If you want to reference other issues, please add:
 
 References:
 
 - ...
 
-If your PR depends on other PRs, please add:
-
-Depends on:
-
-- [ ] ...
+If not already described in a referenced issue, please describe your PR and the motivation behind it. Just try to make life easy for the reviewers.
 -->
 
-## Additional Description
-
-None
-
 <!--
-If not already described in a referenced issue, please describe your PR and the motivation behind it. You can also add special notes for the reviewers here, e.g. why you solved the problem in a certain why or give an overview over the your changes and implications. Just try to make life easy for the reviewers.
--->
+Do you want to add something to the release notes (metal-stack/releases)? You can do so by adding SPECIAL SECTIONS (code blocks) in this PR.
 
-## Release Notes
-
-None
-
-<!--
-Do you want to add something to the release notes (metal-stack/releases)? You can do so by adding special sections in this PR.
-
-Please be aware that the pull request's title will become part of the release notes, so try to make it understandable and choose wisely.
+Please be aware that the pull request's title will become part of the release notes, so try to make it understandable.
 
 If your changes contain a breaking change, please add the following section:
 
-## Breaking Change
+## Release Notes
+
+### Breaking Change
 
 ```BREAKING_CHANGE
 Description of the breaking change and what an operator needs to do about it.
@@ -50,11 +31,16 @@ This section is **not** intended for documentation of internal breaking changes.
 Release notes are meant to be read by users and operators of metal-stack, not metal-stack developers.
 ```
 
-If your changes contain required actions for operators, please add the following section:
-
-## Required Actions
+### Required Actions
 
 ```ACTIONS_REQUIRED
-Description of the required action.
+Description of the required action for operators.
+```
+
+
+### Noteworthy
+
+```NOTEWORTHY
+Description of noteworthy release information for the metal-stack project that users or operators should know.
 ```
 -->
