@@ -17,9 +17,9 @@ Please be aware that the pull request's title will become part of the release no
 -->
 
 <!--
-You can add something to the release notes for the next metal-stack release (metal-stack/releases)? You can do so by adding SPECIAL SECTIONS (code blocks) in this PR. Please only add a section when this is relevant for the entire project.
+If you would like to add something to the release notes for the next metal-stack release (metal-stack/releases), you can do so by adding SPECIAL SECTIONS (code blocks) in this PR. Please only add a section when this is relevant for the entire project.
 
-If your changes contain a breaking change, please add the following section:
+You can use the following snippets as an example:
 
 ## Release Notes
 
@@ -36,7 +36,6 @@ Release notes are meant to be read by users and operators of metal-stack, not me
 ```ACTIONS_REQUIRED
 Description of the required action for operators.
 ```
-
 
 ### Noteworthy
 
