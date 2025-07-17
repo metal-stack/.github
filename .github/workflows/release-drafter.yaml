@@ -8,7 +8,7 @@ on:
         required: true
 
 jobs:
-  draft:
+  release-draft:
     runs-on: ubuntu-latest
     steps:
     - uses: release-drafter/release-drafter@v6
