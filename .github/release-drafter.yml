@@ -1,0 +1,21 @@
+name-template: 'v$RESOLVED_VERSION'
+tag-template: 'v$RESOLVED_VERSION'
+
+template: |
+  ## General Changes
+
+  $CHANGES
+
+categories: []
+
+version-resolver:
+  major:
+    labels:
+    - 'release: breaking'
+  minor:
+    labels:
+    - 'release: minor'
+  patch:
+    labels:
+    - 'release: patch'
+  default: patch
