@@ -1,0 +1,10 @@
+name: Question
+description: General question or support requested
+type: Question
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: You have a general question or need support? Raise your question here.
+    validations:
+      required: true
