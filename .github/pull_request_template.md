@@ -17,6 +17,8 @@ Please be aware that the pull request's title will become part of the release no
 -->
 
 <!--
+You maybe want to attach the triage label if you want it to be discussed in the next planning meeting. It might be useful to attend the meeting if you want to emphasize it.
+
 If you would like to add something to the release notes for the next metal-stack release (metal-stack/releases), you can do so by adding SPECIAL SECTIONS (code blocks) in this PR. Please only add a section when this is relevant for the entire project.
 
 You can use the following snippets as an example:
