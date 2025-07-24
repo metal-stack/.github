@@ -6,5 +6,6 @@ body:
     id: question
     attributes:
       label: You have a general question or need support? Raise your question here.
+      description: Please consider reaching out to our community Slack channel if it's just something small.
     validations:
       required: true
