@@ -6,9 +6,11 @@ body:
     attributes:
       value: |
         You can attach the `triage` label to your issue if you want it to be discussed in the next [planning meeting](https://docs.metal-stack.io/stable/developers/planning-meetings/).
+
   - type: textarea
     id: enhancement
     attributes:
-      label: Create a meaningful description including why this enhancement is needed.
+      label: Description
+      placeholder: Create a meaningful description including why this enhancement is needed.
     validations:
       required: true

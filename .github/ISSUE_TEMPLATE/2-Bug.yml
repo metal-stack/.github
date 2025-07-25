@@ -6,10 +6,11 @@ body:
     attributes:
       value: |
         You can attach the `triage` label to your issue if you want it to be discussed in the next [planning meeting](https://docs.metal-stack.io/stable/developers/planning-meetings/).
+
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
+      label: Description
+      placeholder: What happened?
     validations:
       required: true

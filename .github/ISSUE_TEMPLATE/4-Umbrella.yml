@@ -11,5 +11,6 @@ body:
     id: umbrella
     attributes:
       label: Description
+      placeholder: Summarize issues and pull requests with this issue.
     validations:
       required: true
