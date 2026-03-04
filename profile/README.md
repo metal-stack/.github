@@ -18,14 +18,14 @@
 
 # Welcome to the metal-stack org! 🎉
 
-metal-stack® is a set of microservices implementing Metal as a Service (MaaS), turning a bunch of hardware into elastic cloud infrastructure. It is built to manage the lifecycles for hundreds and thousands of servers inside your on-premises data center.
+metal-stack® is a set of microservices implementing Metal as a Service (MaaS), turning a bunch of hardware into elastic cloud infrastructure. It is built to manage the lifecycles for hundreds and thousands of servers inside your on-premises data center (DC).
 
 ## Key Traits
 
-- Data Center Management: Manage machines, switches, networks, IP addresses, firewalls, racks, operating systems and more​
-- API-Driven: Self-service APIs with minimal operational overhead, implemented in Golang
-- On-Premise: Maintain data and hardware sovereignty, without vendor lock-in​
-- Open Source: Developed transparently, used in production since 2020
+- **Fully Automated DC Management:** Manage machines, switches, networks, IP addresses, firewalls, racks, operating systems and more​
+- **API-Driven:** Self-service APIs with minimal operational overhead, implemented in Golang
+- **On-Premise:** Maintain data and hardware sovereignty, without vendor lock-in​
+- **Open Source:** Developed transparently, used in production since 2020
 
 Together with our friends from the open-source project [Gardener](https://gardener.cloud/), metal-stack can serve as a cloud provider for delivering bare-metal Kubernetes clusters at scale. We strive for being a serious, on-premises solution to hyperscaler offerings.
 
