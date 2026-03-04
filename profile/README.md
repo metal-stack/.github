@@ -2,8 +2,8 @@
 <img src="https://metal-stack.io/img/metal-stack.png" height=100>
 </h1>
 
-<h3 align='center'><a href="https://metal-stack.io/">Website</a>
-• <a href="https://metal-stack.io/docs">Docs</a>
+<h3 align='center'>
+<a href="https://metal-stack.io/docs">Docs</a>
 • <a href="https://metal-stack.io/blog">Blog</a>
 • <a href="https://metal-stack.io/community">Community</a>
 • <a href="https://metal-stack.io/imprint">Imprint</a>
