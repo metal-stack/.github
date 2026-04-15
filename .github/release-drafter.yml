@@ -2,7 +2,7 @@ name-template: 'v$RESOLVED_VERSION'
 tag-template: 'v$RESOLVED_VERSION'
 
 template: |
-  ## General Changes Test
+  ## General Changes
 
   $CHANGES
 
@@ -11,11 +11,11 @@ categories: []
 version-resolver:
   major:
     labels:
-    - 'release: breaking'
+    - 'major'
   minor:
     labels:
-    - 'release: minor'
+    - 'minor'
   patch:
     labels:
-    - 'release: patch'
+    - 'patch'
   default: patch
