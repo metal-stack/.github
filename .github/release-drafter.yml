@@ -1,5 +1,6 @@
 name-template: 'v$RESOLVED_VERSION'
 tag-template: 'v$RESOLVED_VERSION'
+version-template:'$NEXT_MINOR_VERSION'
 
 template: |
   ## General Changes
